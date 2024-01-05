@@ -5,21 +5,21 @@
   - try..catch 🙋
   - Non-blocking 🎓
   - Async I/O 🎓
-  - Thread pool 👂
-  - Pattern Reactor 👂
+  - Thread pool 🎓
+  - Pattern Reactor 🎓
   - CAS operations 
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv 👂
+  - libuv 🎓
   - Race conditions 🎓
   - Dead locks 🎓
-  - Live locks 👂
+  - Live locks 🎓
   - Concurrent programming 🖐️
   - Parallel programming 🖐️
   - Actor Model 🖐️
-  - Thread 👂
+  - Thread 🎓
   - Process 🖐️
 - Async contracts
   - Callbacks 📢
@@ -43,9 +43,9 @@
 - Async adapters and utils
   - callbackify 🚀
   - promisify 🚀
-  - asyncify 👂
-  - callbacks compose 👂
-  - async compose 👂
+  - asyncify 🚀
+  - callbacks compose 🎓
+  - async compose 🎓
 - Async abstractions interfaces
   - EventEmitter 🙋
   - Observable/Observer 🙋
@@ -60,22 +60,22 @@
   - Spin Lock 👂
 - JavaScript & Node.js specific
   - Timers 📢
-  - setImmediate 🖐️
-  - nextTick 🖐️
-  - AbortController 🎓
-  - AbortSignal 🎓 
+  - setImmediate 📢
+  - nextTick 📢
+  - AbortController 📢
+  - AbortSignal 📢 
   - Promise unhandled rejection 🙋
   - Promise double resolve 
-  - child_process 🎓
+  - child_process 📢
   - worker_threads 🎓
   - Atomics
   - High resolution clock
-  - Callback hell 🎓 
-  - Promise hell 🎓
+  - Callback hell 📢 
+  - Promise hell 📢
   - ref() and unref() 👂
   - Error handling in async code 🖐️
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization 👂
   - promisify 🚀
   - callbackify 🚀
   - AsyncLocalStorage
@@ -88,8 +88,8 @@
   - Promise.allSettled 🙋
   - Promise.race 🙋
   - Promise.any 🙋
-  - Web Locks API
+  - Web Locks API 👂
   - IPC
-  - Channel API
-  - Revealing Constructor
-  - Web Locks API
+  - Channel API 👂
+  - Revealing Constructor 👂
+  - Web Locks API 👂

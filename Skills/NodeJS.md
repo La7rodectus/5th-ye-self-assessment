@@ -22,27 +22,27 @@
   - Module-based permissions model
   - Isolation with modularity 🙋
   - Dependency injection 🙋
-  - DI containers
+  - DI containers 👂
   - Coupling and cohesion 🙋
   - Framework agnostic approach
 - Environment
-  - Command line arguments 🖐️
-  - Node.js CLI 🖐️
+  - Command line arguments 🙋
+  - Node.js CLI 🙋
   - Process-based permissions
   - Graceful shutdown 🖐️
   - Clustering 🖐️
   - Watch filesystem changes with --watch 🖐️
 - Internal API
   - Streams API 🙋
-  - Web Streams API
+  - Web Streams API 👂
   - Crypto API 🙋
-  - Password hashing with node:crypto.scrypt \
+  - Password hashing with node:crypto.scrypt
   - Web Crypto API 👂
   - File system API: sync and async 🙋
   - Copy folder recursively 🖐️
   - Worker threads 🖐️
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici 👂
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -59,7 +59,7 @@
   - node:assert 🖐️
   - Internationalization
   - Blob, File, Buffer, node:buffer 🖐️
-  - Module node:zlib
+  - Module node:zlib 👂
 - Application structure and architecture
   - Isolation between layer 🖐️
   - Multilayer approach 🖐️
@@ -72,7 +72,7 @@
   - Distributed systems 🎓
   - Highload applications 👂
   - Clean architecture 🖐️
-  - DDD
+  - DDD 👂
   - Message Queue 🖐️
   - CQS
   - CQRS
@@ -85,18 +85,18 @@
   - Leaking abstractions 🚀
 - Network
   - IP sticky sessions 👂
-  - Endpoint throttling 🖐️
-  - HTTP(S) 🖐️
-  - TCP/SSL 🖐️
+  - Endpoint throttling 🙋
+  - HTTP(S) 🙋
+  - TCP/SSL 🙋
   - UDP 🖐️
   - TLS 👂
   - Websocket 🖐️
-  - SSE
+  - SSE 👂
   - HTTP/3 (QUIC) 🎓
   - Long polling 🎓
-  - REST 🖐️
+  - REST 🙋
   - RPC 👂
-  - Routing 🖐️
+  - Routing 🙋
   - DoS 🎓
   - DDoS 🙋
   - XSS 🙋
@@ -137,26 +137,26 @@
   - Object-Relational Mapping 🙋
 - Error handling and debugging
   - Error 🙋
-  - error.cause 🎓
-  - error.code 🎓
+  - error.cause 🙋
+  - error.code 🙋
   - error.message 🙋
   - error.stack 🙋
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions 🙋
-  - Heap dump
+  - Heap dump 👂
   - Debugging tools 🙋
   - Flame graph
   - Memory leaks 🙋
-  - Resource leaks
-  - Data race 👂
+  - Resource leaks 👂
+  - Data race 🎓
 - Integrations and bindings
-  - Native addons
-  - C and C++ addons
+  - Native addons 👂
+  - C and C++ addons 👂
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
+  - Node-API (formerly N-API) 👂
   - NAPI C and C++
   - NAPI Rust
   - NAPI Zig

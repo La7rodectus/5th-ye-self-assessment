@@ -78,8 +78,8 @@
   - serialization 🙋
   - string parsing 🙋
 - Process & style
-  - compiler 👂
-  - transpiler 👂
+  - compiler 🙋
+  - transpiler 🙋
   - linter 🙋
   - polyfill 🙋
   - debugger 🙋
@@ -91,7 +91,7 @@
   - algorithm 🙋
   - magic numbers 🙋
   - hardcode 🙋
-  - complexity 👂
+  - complexity 🙋
   - decomposition 🙋
   - spaghetti 🙋
   - silver bullet 🙋
