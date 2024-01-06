@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🙋
-  - identifier 🙋
-  - variable 🙋
-  - constant 🙋
-  - scalar 🙋
-  - literal 🙋
-  - expression 🙋
-  - heap 🙋
-  - function 🙋
-  - procedure 🙋
-  - method 🙋
-  - class 🙋
-  - prototype 🙋
-  - event 🙋
-  - type 🙋
-  - primitive types 🙋
-  - reference types 🙋
-  - flag 🙋
-  - lexical scope 🙋
-  - code block 🙋
-  - conditions 🙋
-  - loops 🙋
-  - assignment 🙋
-  - regular expression 🙋
-  - interface 🙋
-  - contract 🙋
-  - module 🙋
-  - call stack 🙋
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
+  - heap: 🙋 explained
+  - function: 🙋 explained
+  - procedure: 🙋 explained
+  - method: 🙋 explained
+  - class: 🙋 explained
+  - prototype: 🙋 explained
+  - event: 🙋 explained
+  - type: 🙋 explained
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
+  - flag: 🙋 explained
+  - lexical scope: 🙋 explained
+  - code block: 🙋 explained
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
+  - assignment: 🙋 explained
+  - regular expression: 🙋 explained
+  - interface: 🙋 explained
+  - contract: 🙋 explained
+  - module: 🙋 explained
+  - call stack: 🙋 explained
 - Functions
-  - signature 🙋
-  - argument 🙋
-  - parameter 🙋
-  - pure function 🙋
-  - lambda expression 🙋
-  - side effects 🙋
-  - closure 🙋
-  - partial application 🙋
-  - curry 🙋
-  - higher order 🙋
-  - recursion 🙋
-  - callback 🙋
-  - listener 🙋
-  - compose 🙋
-  - pipe 🙋
+  - signature: 🙋 explained
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🙋 explained
+  - side effects: 🙋 explained
+  - closure: 🙋 explained
+  - partial application: 🙋 explained
+  - curry: 🙋 explained
+  - higher order: 🙋 explained
+  - recursion: 🙋 explained
+  - callback: 🙋 explained
+  - listener: 🙋 explained
+  - compose: 🙋 explained
+  - pipe: 🙋 explained
   - memoize
-  - wrapper 🙋
+  - wrapper: 🙋 explained
   - functor
   - monad
   - monoid
-  - generator 🙋
+  - generator: 🙋 explained
   - coroutine
 - Data structures
-  - array 🙋
-  - structure 🙋
-  - record 🙋
-  - enum 🙋
-  - instance 🙋
-  - object 🙋
-  - class 🙋
-  - collection 🙋
-  - set 🙋
-  - hash table 🙋
-  - linked list 🙋
+  - array: 🙋 explained
+  - structure: 🙋 explained
+  - record: 🙋 explained
+  - enum: 🙋 explained
+  - instance: 🙋 explained
+  - object: 🙋 explained
+  - class: 🙋 explained
+  - collection: 🙋 explained
+  - set: 🙋 explained
+  - hash table: 🙋 explained
+  - linked list: 🙋 explained
   - doubly list
   - unrolled list
-  - circular list 🙋
-  - queue 🙋
-  - stack 🙋
+  - circular list: 🙋 explained
+  - queue: 🙋 explained
+  - stack: 🙋 explained
   - deque
-  - tree 🙋
-  - graph 🙋
-  - iterator 🙋
-  - mutable state 🙋
-  - immutable state 🙋
-  - serialization 🙋
-  - string parsing 🙋
+  - tree: 🙋 explained
+  - graph: 🙋 explained
+  - iterator: 🙋 explained
+  - mutable state: 🙋 explained
+  - immutable state: 🙋 explained
+  - serialization: 🙋 explained
+  - string parsing: 🙋 explained
 - Process & style
-  - compiler 🙋
-  - transpiler 🙋
-  - linter 🙋
-  - polyfill 🙋
-  - debugger 🙋
-  - garbage collection 🙋
-  - refactoring 🙋
-  - code review 🙋
-  - antipatterns 🙋
-  - paradigm 🙋
-  - algorithm 🙋
-  - magic numbers 🙋
-  - hardcode 🙋
-  - complexity 🙋
-  - decomposition 🙋
-  - spaghetti 🙋
-  - silver bullet 🙋
+  - compiler: 🙋 explained
+  - transpiler: 🙋 explained
+  - linter: 🙋 explained
+  - polyfill: 🙋 explained
+  - debugger: 🙋 explained
+  - garbage collection: 🙋 explained
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
+  - antipatterns: 🙋 explained
+  - paradigm: 🙋 explained
+  - algorithm: 🙋 explained
+  - magic numbers: 🙋 explained
+  - hardcode: 🙋 explained
+  - complexity: 🙋 explained
+  - decomposition: 🙋 explained
+  - spaghetti: 🙋 explained
+  - silver bullet: 🙋 explained
   - not invented here
-  - dead code 🙋
-  - unreachable code 🙋
-  - duplicate code 🙋
-  - exception 🙋
-  - return early 🙋
-  - unittest 🙋
-  - git 🙋
-  - github 🙋
+  - dead code: 🙋 explained
+  - unreachable code: 🙋 explained
+  - duplicate code: 🙋 explained
+  - exception: 🙋 explained
+  - return early: 🙋 explained
+  - unittest: 🙋 explained
+  - git: 🙋 explained
+  - github: 🙋 explained
