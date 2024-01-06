@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🙋 heard
-  - identifier: 🙋 heard
-  - variable: 🙋 heard
-  - constant: 🙋 heard
-  - scalar: 🙋 heard
-  - literal: 🙋 heard
-  - expression: 🙋 heard
-  - heap: 🙋 heard
-  - function: 🙋 heard
-  - procedure: 🙋 heard
-  - method: 🙋 heard
-  - class: 🙋 heard
-  - prototype: 🙋 heard
-  - event: 🙋 heard
-  - type: 🙋 heard
-  - primitive types: 🙋 heard
-  - reference types: 🙋 heard
-  - flag: 🙋 heard
-  - lexical scope: 🙋 heard
-  - code block: 🙋 heard
-  - conditions: 🙋 heard
-  - loops: 🙋 heard
-  - assignment: 🙋 heard
-  - regular expression: 🙋 heard
-  - interface: 🙋 heard
-  - contract: 🙋 heard
-  - module: 🙋 heard
-  - call stack: 🙋 heard
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
+  - heap: 🙋 explained
+  - function: 🙋 explained
+  - procedure: 🙋 explained
+  - method: 🙋 explained
+  - class: 🙋 explained
+  - prototype: 🙋 explained
+  - event: 🙋 explained
+  - type: 🙋 explained
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
+  - flag: 🙋 explained
+  - lexical scope: 🙋 explained
+  - code block: 🙋 explained
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
+  - assignment: 🙋 explained
+  - regular expression: 🙋 explained
+  - interface: 🙋 explained
+  - contract: 🙋 explained
+  - module: 🙋 explained
+  - call stack: 🙋 explained
 - Functions
-  - signature: 🙋 heard
-  - argument: 🙋 heard
-  - parameter: 🙋 heard
-  - pure function: 🙋 heard
-  - lambda expression: 🙋 heard
-  - side effects: 🙋 heard
-  - closure: 🙋 heard
-  - partial application: 🙋 heard
-  - curry: 🙋 heard
-  - higher order: 🙋 heard
-  - recursion: 🙋 heard
-  - callback: 🙋 heard
-  - listener: 🙋 heard
-  - compose: 🙋 heard
-  - pipe: 🙋 heard
+  - signature: 🙋 explained
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🙋 explained
+  - side effects: 🙋 explained
+  - closure: 🙋 explained
+  - partial application: 🙋 explained
+  - curry: 🙋 explained
+  - higher order: 🙋 explained
+  - recursion: 🙋 explained
+  - callback: 🙋 explained
+  - listener: 🙋 explained
+  - compose: 🙋 explained
+  - pipe: 🙋 explained
   - memoize
-  - wrapper: 🙋 heard
+  - wrapper: 🙋 explained
   - functor
   - monad
   - monoid
-  - generator: 🙋 heard
+  - generator: 🙋 explained
   - coroutine
 - Data structures
-  - array: 🙋 heard
-  - structure: 🙋 heard
-  - record: 🙋 heard
-  - enum: 🙋 heard
-  - instance: 🙋 heard
-  - object: 🙋 heard
-  - class: 🙋 heard
-  - collection: 🙋 heard
-  - set: 🙋 heard
-  - hash table: 🙋 heard
-  - linked list: 🙋 heard
+  - array: 🙋 explained
+  - structure: 🙋 explained
+  - record: 🙋 explained
+  - enum: 🙋 explained
+  - instance: 🙋 explained
+  - object: 🙋 explained
+  - class: 🙋 explained
+  - collection: 🙋 explained
+  - set: 🙋 explained
+  - hash table: 🙋 explained
+  - linked list: 🙋 explained
   - doubly list
   - unrolled list
-  - circular list: 🙋 heard
-  - queue: 🙋 heard
-  - stack: 🙋 heard
+  - circular list: 🙋 explained
+  - queue: 🙋 explained
+  - stack: 🙋 explained
   - deque
-  - tree: 🙋 heard
-  - graph: 🙋 heard
-  - iterator: 🙋 heard
-  - mutable state: 🙋 heard
-  - immutable state: 🙋 heard
-  - serialization: 🙋 heard
-  - string parsing: 🙋 heard
+  - tree: 🙋 explained
+  - graph: 🙋 explained
+  - iterator: 🙋 explained
+  - mutable state: 🙋 explained
+  - immutable state: 🙋 explained
+  - serialization: 🙋 explained
+  - string parsing: 🙋 explained
 - Process & style
   - compiler: 👂 heard
   - transpiler: 👂 heard
-  - linter: 🙋 heard
-  - polyfill: 🙋 heard
-  - debugger: 🙋 heard
-  - garbage collection: 🙋 heard
-  - refactoring: 🙋 heard
-  - code review: 🙋 heard
-  - antipatterns: 🙋 heard
-  - paradigm: 🙋 heard
-  - algorithm: 🙋 heard
-  - magic numbers: 🙋 heard
-  - hardcode: 🙋 heard
+  - linter: 🙋 explained
+  - polyfill: 🙋 explained
+  - debugger: 🙋 explained
+  - garbage collection: 🙋 explained
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
+  - antipatterns: 🙋 explained
+  - paradigm: 🙋 explained
+  - algorithm: 🙋 explained
+  - magic numbers: 🙋 explained
+  - hardcode: 🙋 explained
   - complexity: 👂 heard
-  - decomposition: 🙋 heard
-  - spaghetti: 🙋 heard
-  - silver bullet: 🙋 heard
+  - decomposition: 🙋 explained
+  - spaghetti: 🙋 explained
+  - silver bullet: 🙋 explained
   - not invented here
-  - dead code: 🙋 heard
-  - unreachable code: 🙋 heard
-  - duplicate code: 🙋 heard
-  - exception: 🙋 heard
-  - return early: 🙋 heard
-  - unittest: 🙋 heard
-  - git: 🙋 heard
-  - github: 🙋 heard
+  - dead code: 🙋 explained
+  - unreachable code: 🙋 explained
+  - duplicate code: 🙋 explained
+  - exception: 🙋 explained
+  - return early: 🙋 explained
+  - unittest: 🙋 explained
+  - git: 🙋 explained
+  - github: 🙋 explained
