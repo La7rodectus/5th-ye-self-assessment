@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🙋
-  - this 🙋
-  - arrow function 🙋
-  - async function 🙋
-  - call 🙋
-  - bind 🙋
-  - apply 🙋
-  - instanceof 🙋
-  - ...spread 🙋
-  - ...rest 🙋
-  - typeof 🙋
-  - destructuring 🙋
-  - generator 🙋
-  - iterator 🙋
-  - async generator 🙋
-  - async iterator 🙋
-  - chaining 🙋
-  - optional chaining 🙋
-  - IIFE 🙋
-  - global 🙋
-  - globalThis 🙋
-  - window 🙋
-  - getters and setters 🙋
-  - __proto__ 🙋
-  - prototype 🙋
-  - equality operators 🙋
-  - logical operators 🙋
-  - bitwise operators 🖐️
-  - ternary operator 🙋
-  - void 🙋
-  - yield 🙋
-  - await 🙋
-  - template literal 🙋
-  - strict mode 🙋
-  - delete 🙋
-  - in 🙋
-  - super 🙋
-  - Symbol 🙋
+  - Object: 🙋 heard
+  - this: 🙋 heard
+  - arrow function: 🙋 heard
+  - async function: 🙋 heard
+  - call: 🙋 heard
+  - bind: 🙋 heard
+  - apply: 🙋 heard
+  - instanceof: 🙋 heard
+  - ...spread: 🙋 heard
+  - ...rest: 🙋 heard
+  - typeof: 🙋 heard
+  - destructuring: 🙋 heard
+  - generator: 🙋 heard
+  - iterator: 🙋 heard
+  - async generator: 🙋 heard
+  - async iterator: 🙋 heard
+  - chaining: 🙋 heard
+  - optional chaining: 🙋 heard
+  - IIFE: 🙋 heard
+  - global: 🙋 heard
+  - globalThis: 🙋 heard
+  - window: 🙋 heard
+  - getters and setters: 🙋 heard
+  - __proto__: 🙋 heard
+  - prototype: 🙋 heard
+  - equality operators: 🙋 heard
+  - logical operators: 🙋 heard
+  - bitwise operators: 🖐️ heard
+  - ternary operator: 🙋 heard
+  - void: 🙋 heard
+  - yield: 🙋 heard
+  - await: 🙋 heard
+  - template literal: 🙋 heard
+  - strict mode: 🙋 heard
+  - delete: 🙋 heard
+  - in: 🙋 heard
+  - super: 🙋 heard
+  - Symbol: 🙋 heard
   - Reflect
 - Statements
-  - if 🙋
-  - while 🙋
-  - do..while 🙋
-  - for 🙋
-  - for..in 🙋
-  - for..of 🙋
-  - for await 🙋
-  - throw 🙋
-  - break 🙋
-  - continue 🙋
-  - import 🙋
-  - export 🙋
-  - label 🎓
-  - try..catch 🙋
-  - switch 🙋
-  - class 🙋
-  - new Error 🙋
+  - if: 🙋 heard
+  - while: 🙋 heard
+  - do..while: 🙋 heard
+  - for: 🙋 heard
+  - for..in: 🙋 heard
+  - for..of: 🙋 heard
+  - for await: 🙋 heard
+  - throw: 🙋 heard
+  - break: 🙋 heard
+  - continue: 🙋 heard
+  - import: 🙋 heard
+  - export: 🙋 heard
+  - label: 🎓 heard
+  - try..catch: 🙋 heard
+  - switch: 🙋 heard
+  - class: 🙋 heard
+  - new Error: 🙋 heard
   - with
 - Functions
-  - function declaration 🙋
-  - function expression 🙋
-  - return 🙋
-  - default parameters 🙋
-  - functional object 🙋
+  - function declaration: 🙋 heard
+  - function expression: 🙋 heard
+  - return: 🙋 heard
+  - default parameters: 🙋 heard
+  - functional object: 🙋 heard
 - Data structures
-  - Array 🙋
-  - mixin 🙋
-  - extend 🙋
-  - typed arrays 🙋
-  - Map 🙋
-  - Set 🙋
-  - undefined 🙋
-  - null 🙋
-  - Proxy 🙋
-  - weak collections 🙋
-  - timers 🙋
-  - EventEmitter 🙋
-  - RegExp 🙋
-  - Date 🙋
-  - BigInt 🙋
+  - Array: 🙋 heard
+  - mixin: 🙋 heard
+  - extend: 🙋 heard
+  - typed arrays: 🙋 heard
+  - Map: 🙋 heard
+  - Set: 🙋 heard
+  - undefined: 🙋 heard
+  - null: 🙋 heard
+  - Proxy: 🙋 heard
+  - weak collections: 🙋 heard
+  - timers: 🙋 heard
+  - EventEmitter: 🙋 heard
+  - RegExp: 🙋 heard
+  - Date: 🙋 heard
+  - BigInt: 🙋 heard
 - Infrastructure
-  - V8 🎓
-  - Node.js 🙋
-  - npm 🙋
-  - prettier 🙋
-  - MDN 🙋
+  - V8: 🎓 heard
+  - Node.js: 🙋 heard
+  - npm: 🙋 heard
+  - prettier: 🙋 heard
+  - MDN: 🙋 heard

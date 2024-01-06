@@ -13,7 +13,7 @@
 - Fork repository
 - Create branch, for example: `2023-autumn` or `2024-winter`
 - In new branch add following levels or leave line untouched in each file as of :
-  - 👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
+  -: 👂 heard heard,: 🎓 heard known,: 🖐️ heard used,: 🙋 heard explained,: 📢 heard talked,: 🔬 heard researched,: 🚀 heard constructed
 - Now you can create pull request and merge this to main branch of your fork (prefer single commit: use squash and merge)
 - Repeat self assessment after course or training
 - Now You can compare branches with URL:
@@ -25,12 +25,12 @@ It should look like following example after filling it out:
 
 ```
 - Syntax and concepts
-  - value: 🙋 used
-  - identifier: 🖐️ used
-  - variable: 🙋 used
-  - constant: 🖐️ used
-  - scalar: 🖐️ used
-  - literal: 👂 heard
-  - expression: 🖐️ used
-  - heap: 👂 heard
+  - value:: 🙋 heard used
+  - identifier:: 🖐️ heard used
+  - variable:: 🙋 heard used
+  - constant:: 🖐️ heard used
+  - scalar:: 🖐️ heard used
+  - literal:: 👂 heard heard
+  - expression:: 🖐️ heard used
+  - heap:: 👂 heard heard
 ```
