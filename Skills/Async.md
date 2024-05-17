@@ -34,7 +34,7 @@
   - Async Iterator: 📢 talked
   - Event: 📢 talked 
   - Coroutine
-  - Goroutine
+  - Goroutine: 🖐️ used
   - Signal: 📢 talked
   - Stream: 📢 talked
   - Chain of responsibility: 📢 talked

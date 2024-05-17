@@ -45,7 +45,7 @@
   - listener: 🙋 explained
   - compose: 🙋 explained
   - pipe: 🙋 explained
-  - memoize
+  - memoize: 🖐️ used
   - wrapper: 🙋 explained
   - functor
   - monad
@@ -86,7 +86,7 @@
   - garbage collection: 🙋 explained
   - refactoring: 🙋 explained
   - code review: 🙋 explained
-  - antipatterns: 🙋 explained
+  - antipatterns: 🚀 constructed
   - paradigm: 🙋 explained
   - algorithm: 🙋 explained
   - magic numbers: 🙋 explained
