@@ -64,22 +64,22 @@
   - Isolation between layer: 🖐️ used
   - Multilayer approach: 🖐️ used
   - Separation of concerns: 🖐️ used
-  - Inversion of control: 🖐️ used
-  - Dependency injection: 🖐️ used
-  - GRASP: 🖐️ used
-  - SOLID: 🖐️ used
+  - Inversion of control: 🙋 explained
+  - Dependency injection: 🙋 explained
+  - GRASP: 🙋 explained
+  - SOLID: 🙋 explained
   - GoF patterns: 🖐️ used
   - Distributed systems: 🎓 known
   - Highload applications: 👂 heard
   - Clean architecture: 🖐️ used
   - DDD: 👂 heard
-  - Message Queue: 🖐️ used
+  - Message Queue: 🙋 explained
   - CQS
   - CQRS
   - Event sourcing: 👂 heard
-  - Load balancing: 🖐️ used
-  - Serverless clouds: 🖐️ used
-  - FaaS clouds: 🖐️ used
+  - Load balancing: 🙋 explained
+  - Serverless clouds: 🙋 explained
+  - FaaS clouds: 🙋 explained
   - Fat controller: 🎓 known
   - GoF for Node.js: 🖐️ used
   - Leaking abstractions: 🚀constructed
