@@ -22,27 +22,27 @@
   - Module-based permissions model
   - Isolation with modularity: 🙋 explained
   - Dependency injection: 🙋 explained
-  - DI containers
+  - DI containers: 👂 heard
   - Coupling and cohesion: 🙋 explained
   - Framework agnostic approach
 - Environment
-  - Command line arguments: 🖐️ used
-  - Node.js CLI: 🖐️ used
+  - Command line arguments: 🙋 explained
+  - Node.js CLI: 🙋 explained
   - Process-based permissions
   - Graceful shutdown: 🖐️ used
   - Clustering: 🖐️ used
   - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API: 🙋 explained
-  - Web Streams API
+  - Web Streams API: 👂 heard
   - Crypto API: 🙋 explained
-  - Password hashing with node:crypto.scrypt \
+  - Password hashing with node:crypto.scrypt
   - Web Crypto API: 👂 heard
   - File system API: sync and async: 🙋 explained
   - Copy folder recursively: 🖐️ used
   - Worker threads: 🖐️ used
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici: 👂 heard
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -59,7 +59,7 @@
   - node:assert: 🖐️ used
   - Internationalization
   - Blob, File, Buffer, node:buffer: 🖐️ used
-  - Module node:zlib
+  - Module node:zlib: 👂 heard
 - Application structure and architecture
   - Isolation between layer: 🖐️ used
   - Multilayer approach: 🖐️ used
@@ -72,7 +72,7 @@
   - Distributed systems: 🎓 known
   - Highload applications: 👂 heard
   - Clean architecture: 🖐️ used
-  - DDD
+  - DDD: 👂 heard
   - Message Queue: 🖐️ used
   - CQS
   - CQRS
@@ -82,21 +82,21 @@
   - FaaS clouds: 🖐️ used
   - Fat controller: 🎓 known
   - GoF for Node.js: 🖐️ used
-  - Leaking abstractions: 🚀 constructed
+  - Leaking abstractions: 🚀constructed
 - Network
   - IP sticky sessions: 👂 heard
-  - Endpoint throttling: 🖐️ used
-  - HTTP(S): 🖐️ used
-  - TCP/SSL: 🖐️ used
+  - Endpoint throttling: 🙋 explained
+  - HTTP(S): 🙋 explained
+  - TCP/SSL: 🙋 explained
   - UDP: 🖐️ used
   - TLS: 👂 heard
   - Websocket: 🖐️ used
-  - SSE
+  - SSE: 👂 heard
   - HTTP/3 (QUIC): 🎓 known
   - Long polling: 🎓 known
-  - REST: 🖐️ used
+  - REST: 🙋 explained
   - RPC: 👂 heard
-  - Routing: 🖐️ used
+  - Routing: 🙋 explained
   - DoS: 🎓 known
   - DDoS: 🙋 explained
   - XSS: 🙋 explained
@@ -137,26 +137,26 @@
   - Object-Relational Mapping: 🙋 explained
 - Error handling and debugging
   - Error: 🙋 explained
-  - error.cause: 🎓 known
-  - error.code: 🎓 known
+  - error.cause: 🙋 explained
+  - error.code: 🙋 explained
   - error.message: 🙋 explained
   - error.stack: 🙋 explained
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions: 🙋 explained
-  - Heap dump
+  - Heap dump: 👂 heard
   - Debugging tools: 🙋 explained
   - Flame graph
   - Memory leaks: 🙋 explained
-  - Resource leaks
-  - Data race: 👂 heard
+  - Resource leaks: 👂 heard
+  - Data race: 🎓 known
 - Integrations and bindings
-  - Native addons
-  - C and C++ addons
+  - Native addons: 👂 heard
+  - C and C++ addons: 👂 heard
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
+  - Node-API (formerly N-API): 👂 heard
   - NAPI C and C++
   - NAPI Rust
   - NAPI Zig

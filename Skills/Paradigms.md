@@ -6,20 +6,20 @@
   - Structured programming: 🖐️ used
   - Non-structured programming
   - Functional programming: 🎓 known
-  - Prototype-based programming
-  - Object-oriented programming: 🖐️ used
+  - Prototype-based programming: 🙋 explained
+  - Object-oriented programming: 🙋 explained
   - Object-based programming
-  - Generic programming: 🖐️ used
-  - Concurrent computing: 🖐️ used
-  - Asyncronous programming: 🖐️ used
-  - Parallel programming: 🎓 known
+  - Generic programming: 🙋 explained
+  - Concurrent computing: 🙋 explained
+  - Asyncronous programming: 🙋 explained
+  - Parallel programming: 🙋 explained
   - Reactive programming: 👂 heard
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming: 👂 heard
-  - Metaprogramming: 🖐️ used
-  - Actor model: 🖐️ used
+  - Multi-paradigm programming: 🙋 explained
+  - Metaprogramming: 🙋 explained
+  - Actor model: 🙋 explained
 - OOP basics
   - constructor: 🙋 explained
   - new: 🙋 explained

@@ -78,8 +78,8 @@
   - serialization: 🙋 explained
   - string parsing: 🙋 explained
 - Process & style
-  - compiler: 👂 heard
-  - transpiler: 👂 heard
+  - compiler: 🙋 explained
+  - transpiler: 🙋 explained
   - linter: 🙋 explained
   - polyfill: 🙋 explained
   - debugger: 🙋 explained
@@ -91,7 +91,7 @@
   - algorithm: 🙋 explained
   - magic numbers: 🙋 explained
   - hardcode: 🙋 explained
-  - complexity: 👂 heard
+  - complexity: 🙋 explained
   - decomposition: 🙋 explained
   - spaghetti: 🙋 explained
   - silver bullet: 🙋 explained

@@ -5,21 +5,21 @@
   - try..catch: 🙋 explained
   - Non-blocking: 🎓 known
   - Async I/O: 🎓 known
-  - Thread pool: 👂 heard
-  - Pattern Reactor: 👂 heard
+  - Thread pool: 🎓 known
+  - Pattern Reactor: 🎓 known
   - CAS operations 
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv: 👂 heard
+  - libuv: 🎓 known
   - Race conditions: 🎓 known
   - Dead locks: 🎓 known
-  - Live locks: 👂 heard
+  - Live locks: 🎓 known
   - Concurrent programming: 🖐️ used
   - Parallel programming: 🖐️ used
   - Actor Model: 🖐️ used
-  - Thread: 👂 heard
+  - Thread: 🎓 known
   - Process: 🖐️ used
 - Async contracts
   - Callbacks: 📢 talked
@@ -41,11 +41,11 @@
   - Middleware: 📢 talked
   - Locks: 📢 talked
 - Async adapters and utils
-  - callbackify: 🚀 constructed
-  - promisify: 🚀 constructed
-  - asyncify: 👂 heard
-  - callbacks compose: 👂 heard
-  - async compose: 👂 heard
+  - callbackify: 🚀constructed
+  - promisify: 🚀constructed
+  - asyncify: 🚀constructed
+  - callbacks compose: 🎓 known
+  - async compose: 🎓 known
 - Async abstractions interfaces
   - EventEmitter: 🙋 explained
   - Observable/Observer: 🙋 explained
@@ -60,24 +60,24 @@
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
   - Timers: 📢 talked
-  - setImmediate: 🖐️ used
-  - nextTick: 🖐️ used
-  - AbortController: 🎓 known
-  - AbortSignal: 🎓 known 
+  - setImmediate: 📢 talked
+  - nextTick: 📢 talked
+  - AbortController: 📢 talked
+  - AbortSignal: 📢 talked 
   - Promise unhandled rejection: 🙋 explained
   - Promise double resolve 
-  - child_process: 🎓 known
+  - child_process: 📢 talked
   - worker_threads: 🎓 known
   - Atomics
   - High resolution clock
-  - Callback hell: 🎓 known 
-  - Promise hell: 🎓 known
+  - Callback hell: 📢 talked 
+  - Promise hell: 📢 talked
   - ref() and unref(): 👂 heard
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await
-  - JSON: streaming serialization
-  - promisify: 🚀 constructed
-  - callbackify: 🚀 constructed
+  - JSON: streaming serialization: 👂 heard
+  - promisify: 🚀constructed
+  - callbackify: 🚀constructed
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
@@ -88,8 +88,8 @@
   - Promise.allSettled: 🙋 explained
   - Promise.race: 🙋 explained
   - Promise.any: 🙋 explained
-  - Web Locks API
+  - Web Locks API: 👂 heard
   - IPC
-  - Channel API
-  - Revealing Constructor
-  - Web Locks API
+  - Channel API: 👂 heard
+  - Revealing Constructor: 👂 heard
+  - Web Locks API: 👂 heard
